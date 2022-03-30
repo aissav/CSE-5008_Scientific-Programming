@@ -1,0 +1,1 @@
+https://nbviewer.org/github/aissav/CSE-5008_Scientific-Programming/blob/main/Exercice%207.ipynb
